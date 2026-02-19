@@ -1,6 +1,6 @@
 import { Play, Info, Star } from "lucide-react";
-import { featuredMovie } from "@/data/movies";
-import heroBg from "@/assets/hero-bg.jpg";
+import { featuredMovie } from "../data/movie";
+import heroBg from "../assets/hero-bg.jpg";
 
 const Hero = () => {
   return (
